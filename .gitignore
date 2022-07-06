@@ -1,0 +1,12 @@
+node_modules/
+.sass-cache/
+.idea/
+.tmp/
+.tmp2/
+dist/
+.DS_Store
+.env
+e2e/
+test/
+
+package-lock.json
